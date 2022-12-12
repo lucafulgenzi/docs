@@ -26,3 +26,4 @@ Here are some examples where the integration was made:
 
 * [cntb](https://github.com/contabo/cntb) written in [Go](https://go.dev/) and using the [minio](https://github.com/minio/minio-go) library
 * External article on [dev.to](https://dev.to/einlinuus/use-contabo-object-storage-with-nodejs-5b9l) using [NodeJS](https://nodejs.org/en/) and [Python](https://www.python.org/)
+* External repository by [lucafulgenzi](https://github.com/lucafulgenzi/contabo-object-storage-api) using [SpringBoot](https://spring.io/)
